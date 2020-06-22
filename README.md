@@ -1,24 +1,19 @@
-# 07_vue
+## 1. 启动项目
 
-## Project setup
-```
-yarn install
-```
+- npm启动项目
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+> npm install  
+> npm run serve
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- yarn启动项目
 
-### Lints and fixes files
-```
-yarn lint
-```
+> yarn add
+> yarn run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##　2. 模块
+
+- 登录模块
+- 注册模块
+
+## 3. 后台服务
+
