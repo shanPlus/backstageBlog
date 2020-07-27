@@ -10,14 +10,14 @@
 > yarn add
 > yarn run serve
 
-##　2. 模块
+## 2. 模块
 
 - 登录模块
 - 注册模块
 
-## 后端
+## 3. 后端
 
 https://github.com/shanPlus/server_api_vue-login
 
-## 3. 后台服务
+## 4. 后台服务
 
